@@ -1,5 +1,15 @@
 ﻿#include <iostream>
 using namespace std;
+
+
+//КАК
+//ОНО
+//МЕНЯ
+//ЗАЕБАЛО
+
+
+
+
 unsigned long check_with_borders(unsigned long a, unsigned long min, unsigned long max)
 {
     while (!(cin >> a) || (a < min) || (a > max)) // пока не будет введено число больше мин и меньше макс
